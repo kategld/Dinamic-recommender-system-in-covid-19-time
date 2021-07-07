@@ -1,0 +1,4 @@
+;alg;ndcg10;period
+0;<surprise.prediction_algorithms.matrix_factorization.SVD object at 0x000000892D23EE48>;0.0015883120152505874;2020-01 - 2020-03
+1;<surprise.prediction_algorithms.matrix_factorization.SVD object at 0x000000892D8CB108>;0.0010909194120718281;2020-03 - 2020-08
+2;<surprise.prediction_algorithms.matrix_factorization.SVD object at 0x00000088CC5B3548>;0.006377716084950499;2020-08 - 2020-10
